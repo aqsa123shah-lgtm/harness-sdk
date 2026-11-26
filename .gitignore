@@ -49,6 +49,9 @@ Thumbs.db
 # Logs
 *.log
 
+# Lumen app runtime data (SQLite database + uploads)
+social/server/data/
+
 # Environment files
 .env
 .env.local

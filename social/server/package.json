@@ -1,0 +1,17 @@
+{
+  "name": "lumen-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Lumen social app API — Express + SQLite",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.10.0",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "multer": "^2.0.2"
+  }
+}
