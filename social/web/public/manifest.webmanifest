@@ -1,0 +1,19 @@
+{
+  "name": "Lumen — Share your light",
+  "short_name": "Lumen",
+  "description": "A calm, modern social network for photos, reels and stories.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0b12",
+  "theme_color": "#0b0b12",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
